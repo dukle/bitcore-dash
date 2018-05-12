@@ -84,7 +84,7 @@
   "dependencies": {
     "@dashevo/dashcore-lib": "*",
     "bitcore-node-dash": "git+https://github.com/dukle/dashcore-node.git",
-    "insight-api-dash": "^0.4.5",
+    "@dashevo/insight-api": "*",
     "insight-ui-dash": "^0.4.3"
   },
   "license": "MIT",
