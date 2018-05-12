@@ -82,7 +82,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.13.20",
+    "@dashevo/dashcore-lib": "*",
     "bitcore-node-dash": "git+https://github.com/dukle/dashcore-node.git",
     "insight-api-dash": "^0.4.5",
     "insight-ui-dash": "^0.4.3"
